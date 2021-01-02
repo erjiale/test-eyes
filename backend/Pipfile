@@ -13,6 +13,7 @@ soupsieve = "==2.1"
 urllib3 = "==1.26.2"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
